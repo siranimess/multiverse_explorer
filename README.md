@@ -5,7 +5,7 @@ Submitted by: **Animesh Niraula**
 
 This web app: **Multiverse Explorer is a React dashboard that allows users to explore characters from Rick and Morty using a public API. Users can search for characters by name, filter them by species and status, and select a minimum number of episode appearances. The dashboard also displays summary statistics, including the total number of loaded characters, alive characters, unique species, and average episode appearances.**
 
-Time spent: **[Enter actual hours]** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
@@ -45,7 +45,13 @@ The following **stretch** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+<div>
+    <a href="https://www.loom.com/share/c11f8b2d84e045279adc297bdb4aebbd">
+    </a>
+    <a href="https://www.loom.com/share/c11f8b2d84e045279adc297bdb4aebbd">
+      <img style="max-width:300px;" src="https://www.loom.com/v1/videos/c11f8b2d84e045279adc297bdb4aebbd/thumbnail.gif">
+    </a>
+  </div>
 
 
 ## Notes
